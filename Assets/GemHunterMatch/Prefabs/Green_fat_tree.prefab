@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 3930743957587144650}
   - component: {fileID: 3930743957587144661}
   m_Layer: 0
-  m_Name: GemPurple
+  m_Name: Green_fat_tree
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -53,7 +53,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 4cbf1914eab0e2547b559b8c13462cbf, type: 2}
+  - {fileID: -876546973899608171, guid: de89a77b947988849a9d2d1ed2a707c3, type: 3}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -74,12 +74,12 @@ SpriteRenderer:
   m_SortingLayerID: 1890678711
   m_SortingLayer: 1
   m_SortingOrder: 0
-  m_Sprite: {fileID: 21300000, guid: e5b8e6f26730d484ea0b523e1d65f25e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1542333b0315d2e458f035bda4ff46ea, type: 3}
   m_Color: {r: 1, g: 0.9882353, b: 0.99607843, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
-  m_Size: {x: 0.91333336, y: 0.9066667}
+  m_Size: {x: 0.8, y: 0.78}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
   m_WasSpriteAssigned: 1
@@ -100,5 +100,5 @@ MonoBehaviour:
   GemType: 3
   MatchEffectPrefabs:
   - {fileID: 8519149161829645249, guid: f4f22f7bed44e2f4abeb41e8a2af3af6, type: 3}
-  UISprite: {fileID: 21300000, guid: 41be04b31a12e3f4fac211722a6b6513, type: 3}
+  UISprite: {fileID: 21300000, guid: 1542333b0315d2e458f035bda4ff46ea, type: 3}
   SpeedMultiplier: 1
