@@ -207,7 +207,7 @@ namespace Match3
 
             halfSize += LevelData.Instance.BorderMargin;
         
-            Camera.main.orthographicSize = halfSize + 2;
+            Camera.main.orthographicSize = halfSize + 1.5f;
         }
 
         /// <summary>

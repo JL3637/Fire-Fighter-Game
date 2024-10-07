@@ -59,7 +59,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"8b4679a2833961049984ed324da066ab","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"22ec2cb3201b59e4892b269a37227505","type":3}}'
     min: -Infinity
     max: Infinity
     enumValues: []
@@ -647,7 +647,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"8b4679a2833961049984ed324da066ab","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"22ec2cb3201b59e4892b269a37227505","type":3}}'
     m_Space: 2147483647
   m_Property:
     name: mainTexture
@@ -3072,7 +3072,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"8b4679a2833961049984ed324da066ab","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"22ec2cb3201b59e4892b269a37227505","type":3}}'
     m_Space: 2147483647
   m_Property:
     name: o

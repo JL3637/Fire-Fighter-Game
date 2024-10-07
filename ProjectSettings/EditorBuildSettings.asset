@@ -20,4 +20,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/GemHunterMatch/Scenes/Level3.unity
     guid: 6f8636eea4fd4465593f170e96739fcc
+  - enabled: 1
+    path: Assets/GemHunterMatch/Scenes/Level4.unity
+    guid: b0af885e03426d24f9796bb38e975148
+  - enabled: 1
+    path: Assets/GemHunterMatch/Scenes/Level5.unity
+    guid: c0a5ba40ac536824f9ce70c52d6e5327
   m_configObjects: {}
